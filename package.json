@@ -1,0 +1,27 @@
+{
+  "name": "smart-home-v1",
+  "version": "1.0.0",
+  "description": "Build smart home with Microsoft Azure",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayEmVey/pi-house-using-Azure.git"
+  },
+  "dependencies": {
+    "azure-iot-device-amqp": "^1.0.15",
+    "azure-iot-device-http": "^1.0.16"
+  },
+  "keywords": [
+    "smarthome",
+    "azure"
+  ],
+  "author": "Giang Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayEmVey/pi-house-using-Azure/issues"
+  },
+  "homepage": "https://github.com/JayEmVey/pi-house-using-Azure#readme"
+}
